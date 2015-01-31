@@ -1,1 +1,1 @@
-# IoT-Proejct-cs465
+# IoT-Project-cs465
